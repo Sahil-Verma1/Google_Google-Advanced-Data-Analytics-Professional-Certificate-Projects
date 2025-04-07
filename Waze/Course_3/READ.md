@@ -39,7 +39,7 @@ Waze and the city of **Iron Mountain** aim to reduce traffic congestion by under
 
 I'm a data enthusiast working toward becoming a data analyst, with a keen interest in using data for solving real-world challenges in transportation, marketing, and business operations.
 
-Let’s connect on [LinkedIn](https://www.linkedin.com/sahilverma2610) and explore more data stories together!
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/sahilverma2610) and explore more data stories together!
 
 ---
 
