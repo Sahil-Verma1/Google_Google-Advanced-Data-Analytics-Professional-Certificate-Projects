@@ -46,7 +46,7 @@ Waze, in partnership with the city of **Iron Mountain**, provided traffic-relate
 
 Hi! I’m a budding data analyst passionate about using data to solve real-world problems—especially in marketing, operations, and city planning. This project reflects my journey in transforming raw data into meaningful insights that drive smart decisions.
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com) or check out my other projects!
+Feel free to connect on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/sahilverma2610)) or check out my other projects!
 
 ---
 
